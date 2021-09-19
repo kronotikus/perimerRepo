@@ -8,7 +8,7 @@ GRUPO BIOS
 * 1.2 EDWIN RENE PUPIALES ARTEAGA (ANALISTA) 
 * 1.3 ANTHONY LEONARDO MOSQUERA JARAMILLO (PRODUCT OWNER) 
 * 1.4 JULY VIVIANA ENRIQUEZ INSUASTY (ADMINISTRADOR DE BD)
-1.5 Diana Milena Gonzalez Rodriguez(Scrum Master)
+* 1.5 Diana Milena Gonzalez Rodriguez(Scrum Master)
 
 2. Decripcion del proceso llevado a cabo  para cumplir con el Sprint No.1  : 
 Paso 1 : Creación de repositorio  GitHub Estableciendo en el campo Repositorio name="MiPrimerRepositorioGrupoBios, tipo público e inicializando el repositorio con un Readme el cual servirá para introducir la información del Sprint 1.
